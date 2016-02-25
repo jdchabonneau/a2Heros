@@ -39,6 +39,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
             }());
             exports_1("AppComponent", AppComponent);
             HEROES = [
+                { "id": 10, "name": "Totoro" },
                 { "id": 11, "name": "Mr. Nice" },
                 { "id": 12, "name": "Narco" },
                 { "id": 13, "name": "Bombasto" },
